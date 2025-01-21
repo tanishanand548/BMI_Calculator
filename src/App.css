@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+*{
+    font-family: "Lora", serif;
+}
+.btn, h2, h3,p{
+    text-align: center;
+    
+}
+.div-btn{
+    margin: 2em;
+
+}
+.container{
+    width: fit-content !important;
+    border-radius: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 20px;
+    margin-top: 5em;
+}
+.btn:nth-child(1){
+    margin: 25px;
+    color: white;
+}
+.btn:nth-child(2){
+    margin: 18px;
+    color: white;
+}
+.inp-field{
+    margin: 18px;
+}
